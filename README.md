@@ -10,7 +10,7 @@
 
 ## 👋 About Me
 
-Hi! I'm **Chimchetam Ibeh**, an aspiring Data Analyst with a strong interest in uncovering patterns, visualizing trends, and solving problems through data.
+Hi! I'm **Chimchetam Ibeh**, a Data Analyst dedicated to transforming complex dataset to actionable insights. i am passionate about bridging the gap between raw information and problem-solving.
 
 - 📍 **Location:** [Nigeria]
 - 💼 **Open to:** Internships & Entry-level Data Analyst roles
