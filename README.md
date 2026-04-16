@@ -1,6 +1,6 @@
 # 📊 Data Analysis Portfolio
 
-> Aspiring Data Analyst | Passionate about turning raw data into meaningful insights
+> Data Analyst | Passionate about turning raw data into meaningful insights
 
 [![Python](https://img.shields.io/badge/Python-3.10-blue?logo=python)](https://www.python.org/)
 [![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange?logo=jupyter)](https://jupyter.org/)
